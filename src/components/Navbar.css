@@ -1,0 +1,54 @@
+/* NAvbar  */
+.Navbar{
+   display: flex;
+  
+   justify-content: space-around;
+   padding: 16px;
+    /* margin: 2px 2px;
+    padding: 10px 8px; */
+    background-color: rgb(93, 188, 196);
+    box-shadow: 6px 3px 20px -9px;
+    /* color: rgb(55, 196, 238); */
+}
+
+
+.nav-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+.nav-logo p {
+    color: rgb(39, 44, 45);
+    font-size: 16px;
+    font-weight: 600;
+}
+.nav-logo a i{
+    color: rgb(216, 93, 93);
+    font-size: 30px;
+}
+.Navbar a{
+    text-decoration: none;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+}
+.Navbar a:hover{
+    
+    color: rgb(131, 131, 233);
+   
+}
+.nav-login-cart button{
+    width: 124px;
+    height: 44px;
+    outline: none;
+    border: 1px solid #7a7a7a;
+    border-radius: 24px;
+    color: #515151;
+    font-size: 16px;
+    font-weight: 500;
+    background: rgb(219, 240, 245);
+    cursor: pointer;
+    box-shadow: 6px 3px 20px -4px;
+    margin:  0px 23px;
+    
+}
