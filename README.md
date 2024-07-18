@@ -22,7 +22,7 @@ ShopZEE is a modern e-commerce website built using React.js and JavaScript, offe
 ### LOGIN PAGE
 ![Home Page](https://github.com/user-attachments/assets/695585e5-9cb6-439a-9bfa-fdbcbe196380)
 
-### Login Page
+### Poduct Overview
 ![Login Page](https://github.com/user-attachments/assets/04624156-dc71-4f86-a0ab-d78e47081306)
 
 ### Men's Section
